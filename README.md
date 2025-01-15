@@ -2,6 +2,7 @@
 
 WORK IN PROGRESS
 
-https://www.flaticon.com/free-icon/work-in-progress_5578703
+![image](https://github.com/user-attachments/assets/2ba4dc7e-a7a9-4d1b-9476-b696fe1a7af7)
+
 
 Hangman game on java
